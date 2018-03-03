@@ -1,7 +1,7 @@
 Added to branch bug450
 
 sum=0
-echo " Enter one no."
+echo " Enter one no.change code"
 read n1
 echo "Enter second no. change code"
 read n2
