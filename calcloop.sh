@@ -1,6 +1,5 @@
 
 flg="y"
-echo "Vlaue First time " $flg 
 while [ $flg = "y" ]
 do
 
@@ -43,5 +42,4 @@ do
 
 	echo "Do you need rerun " "Enter y or n" 
 	read flg
-	echo "Value of Rerun" $flg
 done
