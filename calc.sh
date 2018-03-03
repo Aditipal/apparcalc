@@ -1,9 +1,9 @@
 Added to branch bug450
 
 sum=0
-echo " Enter one no.change code"
+echo " Enter one no."
 read n1
-echo "Enter second no. change code"
+echo "Enter second no."
 read n2
 
 echo "1.Addition"
